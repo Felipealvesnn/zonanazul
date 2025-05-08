@@ -7,7 +7,7 @@ workflows:
       app_store_connect: codemagic
     environment:
       ios_signing:
-        distribution_type: development # Altere para app_store se for distribuir para a loja
+        distribution_type: app_store # Altere para app_store se for distribuir para a loja
         bundle_identifier: zonaazul-br.com.w2esolucoes.zonaazul
       vars:
         APP_ID: 6745613363
