@@ -1,23 +1,29 @@
 workflows:
-  ios-appstore-auto-signing:
-    name: iOS App Store Build (Auto)
+  ios-manual-signing:
+    name: iOS Manual Signing
     instance_type: mac_mini_m2
     environment:
+      vars:
+        CERTIFICATE_PASSWORD: 123456 # senha do seu .p12
       ios_signing:
         distribution_type: app_store
         bundle_identifier: br.com.w2esolucoes.zonaazul
       flutter: stable
       xcode: latest
     scripts:
-      - name: Usar perfis automáticos
+      - name: Inicializar chave e provisionamento
         script: |
-          xcode-project use-profiles
+          keychain initialize
+          keychain add-certificates --certificate ./certs/certificate.p12 --certificate-password $CERTIFICATE_PASSWORD
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          cp ./certs/ZonaAzulAppStoreProfile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
       - name: Instalar dependências
         script: flutter pub get
-      - name: Build IPA
+      - name: Build IPA assinado
         script: flutter build ipa --release
     artifacts:
       - build/ios/ipa/*.ipa
+
 
   android-workflow:
     name: Android Workflow
