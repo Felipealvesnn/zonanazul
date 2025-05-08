@@ -3,16 +3,13 @@ workflows:
     name: iOS App Store Build (Auto)
     instance_type: mac_mini_m2
     environment:
-      vars:
-        APP_ID: 12345678 # se quiser usar no futuro pro TestFlight
       ios_signing:
         distribution_type: app_store
         bundle_identifier: br.com.w2esolucoes.zonaazul
-        authentication: app_store_connect
       flutter: stable
       xcode: latest
     scripts:
-      - name: Fetch perfis e certificados automáticos
+      - name: Usar perfis automáticos
         script: |
           xcode-project use-profiles
       - name: Instalar dependências
@@ -21,7 +18,6 @@ workflows:
         script: flutter build ipa --release
     artifacts:
       - build/ios/ipa/*.ipa
-
 
   android-workflow:
     name: Android Workflow
