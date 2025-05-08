@@ -8,7 +8,7 @@ workflows:
         CERTIFICATE_PASSWORD: 123456
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: zonaazul-br.com.w2esolucoes.zonaazul
+        bundle_identifier: br.com.w2esolucoes.zonaazul
       flutter: stable
       xcode: latest
     scripts:
