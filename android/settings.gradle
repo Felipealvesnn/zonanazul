@@ -1,0 +1,38 @@
+pluginManagement {
+    def flutterSdkPath = {
+        def props = new Properties()
+        file("local.properties").withInputStream { props.load(it) }
+        return props.getProperty("flutter.sdk")
+            ?: error("flutter.sdk not set in local.properties")
+    }()
+
+    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url "https://maven.pkg.jetbrains.space/kotlin/p/kotlin/dev" }
+    }
+}
+
+plugins {
+    id "dev.flutter.flutter-plugin-loader" version "1.0.0"
+    id "com.android.application" version "8.6.1" apply false
+    id "org.jetbrains.kotlin.android" version "1.9.22" apply false
+}
+
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url "https://maven.pkg.jetbrains.space/kotlin/p/kotlin/dev" }
+    }
+}
+
+
+
+
+// rootProject.name = "zonanazul"
+include ":app"

@@ -1,0 +1,14 @@
+feat: Enable MultiDex and add permissions for full-screen intents and exact alarms
+
+- Enabled MultiDex in `android/app/build.gradle`.
+- Added permissions for `USE_FULL_SCREEN_INTENT` and `USE_EXACT_ALARM` in `AndroidManifest.xml`.
+- Updated `settings.gradle` to improve Flutter SDK path handling and added Kotlin maven repository.
+- Updated Kotlin plugin version in `settings.gradle`.
+- Added a new service `NotificationOnKillService` in `AndroidManifest.xml`.
+- Refactored notification scheduling in `funcoesutilsd.dart` to use `notificarEstacionarWithArlam`.
+- Implemented alarm notifications in `gerarNotificacao.dart` using the `alarm` package.
+- Updated `main.dart` to initialize the `alarm` package and check for exact alarm permissions.
+- Registered `SharedPreferencesPlugin` in `GeneratedPluginRegistrant.swift`.
+- Updated dependencies in `pubspec.yaml` and `pubspec.lock` for `alarm` and `shared_preferences`.
+- Added Codemagic configuration for iOS and Android workflows.
+- Created `devtools_options.yaml` for Dart & Flutter DevTools settings.

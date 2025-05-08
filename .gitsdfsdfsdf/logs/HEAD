@@ -1,0 +1,210 @@
+0000000000000000000000000000000000000000 abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697045328 -0300	clone: from https://github.com/wdutra01/zonanazul.git
+abb58119416060a6b0f5e11327cf312ffa83b15f abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697047839 -0300	checkout: moving from main to teste
+abb58119416060a6b0f5e11327cf312ffa83b15f abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697048218 -0300	checkout: moving from teste to main
+abb58119416060a6b0f5e11327cf312ffa83b15f abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697048232 -0300	checkout: moving from main to testes
+abb58119416060a6b0f5e11327cf312ffa83b15f abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697048253 -0300	checkout: moving from testes to main
+abb58119416060a6b0f5e11327cf312ffa83b15f abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697048267 -0300	checkout: moving from main to testes
+abb58119416060a6b0f5e11327cf312ffa83b15f a3896a209399ddc1ead8aab61f763b44dd3be409 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697048280 -0300	commit: add
+a3896a209399ddc1ead8aab61f763b44dd3be409 b24b029ed935838ef7f6112c0edb5790ca27ba06 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697053919 -0300	commit: attt
+b24b029ed935838ef7f6112c0edb5790ca27ba06 cc5c5c91f95e3863f7308bdb3d1420bcbd33ba8c Felipe Nunes Work <felipe.rudra@hotmail.com> 1697054014 -0300	commit: att
+cc5c5c91f95e3863f7308bdb3d1420bcbd33ba8c abb58119416060a6b0f5e11327cf312ffa83b15f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697054034 -0300	checkout: moving from testes to main
+abb58119416060a6b0f5e11327cf312ffa83b15f cc5c5c91f95e3863f7308bdb3d1420bcbd33ba8c Felipe Nunes Work <felipe.rudra@hotmail.com> 1697054104 -0300	checkout: moving from main to testes
+cc5c5c91f95e3863f7308bdb3d1420bcbd33ba8c 6c548f01ae91c8288b98bdde637c7a96d1146b92 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697054833 -0300	commit: at
+6c548f01ae91c8288b98bdde637c7a96d1146b92 71a423cb7ef332fe7850c66aa45eeea88a442a0d Felipe Nunes Work <felipe.rudra@hotmail.com> 1697196020 -0300	pull --tags origin testes: Fast-forward
+71a423cb7ef332fe7850c66aa45eeea88a442a0d 0d157dac26dc5c85195677324760b10dd50762f6 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697203947 -0300	commit: add
+0d157dac26dc5c85195677324760b10dd50762f6 621c34f529e0f79108e1cb345419db04f66ca0e0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697208446 -0300	commit: add
+621c34f529e0f79108e1cb345419db04f66ca0e0 0d157dac26dc5c85195677324760b10dd50762f6 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697208619 -0300	reset: moving to 0d157dac26dc5c85195677324760b10dd50762f6
+0d157dac26dc5c85195677324760b10dd50762f6 621c34f529e0f79108e1cb345419db04f66ca0e0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697211152 -0300	pull --tags origin testes: Fast-forward
+621c34f529e0f79108e1cb345419db04f66ca0e0 621c34f529e0f79108e1cb345419db04f66ca0e0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697211177 -0300	rebase (start): checkout 0d157dac26dc5c85195677324760b10dd50762f6
+621c34f529e0f79108e1cb345419db04f66ca0e0 621c34f529e0f79108e1cb345419db04f66ca0e0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697211177 -0300	rebase (finish): returning to refs/heads/testes
+621c34f529e0f79108e1cb345419db04f66ca0e0 71a423cb7ef332fe7850c66aa45eeea88a442a0d Felipe Nunes Work <felipe.rudra@hotmail.com> 1697211189 -0300	reset: moving to 0d157dac26dc5c85195677324760b10dd50762f6^
+71a423cb7ef332fe7850c66aa45eeea88a442a0d 621c34f529e0f79108e1cb345419db04f66ca0e0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697211229 -0300	pull --tags origin testes: Fast-forward
+621c34f529e0f79108e1cb345419db04f66ca0e0 745db740082f02cdef6a33852566a59d99351a77 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697217843 -0300	commit: att
+745db740082f02cdef6a33852566a59d99351a77 d7e47d8bceedef2c3d38b28d0e53053d48cae90a Felipe Nunes Work <felipe.rudra@hotmail.com> 1697218358 -0300	commit: att
+d7e47d8bceedef2c3d38b28d0e53053d48cae90a 58cf516ed7b02c06964bcffe98aca3e18c406530 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697221888 -0300	commit: att
+58cf516ed7b02c06964bcffe98aca3e18c406530 eb6e9c2c67b658f34434b3ed4882b9088bc69be8 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697226539 -0300	commit: att
+eb6e9c2c67b658f34434b3ed4882b9088bc69be8 ac6f55f1b11db4042d648e371eb6716baae7c99d Felipe Nunes Work <felipe.rudra@hotmail.com> 1697455433 -0300	pull --tags origin testes: Fast-forward
+ac6f55f1b11db4042d648e371eb6716baae7c99d 0580e156d778ab736295581c429d5dc802cd2022 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697463841 -0300	commit: add
+0580e156d778ab736295581c429d5dc802cd2022 9204101ff9ee67b0c04c3a110b06a776bcb93bc4 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697463915 -0300	commit: atualizado manifest
+9204101ff9ee67b0c04c3a110b06a776bcb93bc4 9d3691ed592b1f1b9c02144d8f918cf19e8e80b4 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697464035 -0300	commit: add
+9d3691ed592b1f1b9c02144d8f918cf19e8e80b4 2ee9ba2f0d195457732df308b427619361a7c9cb Felipe Nunes Work <felipe.rudra@hotmail.com> 1697467180 -0300	commit: add
+2ee9ba2f0d195457732df308b427619361a7c9cb d1a5b65b9175ff52d975293c60b250367e99b86e Felipe Nunes Work <felipe.rudra@hotmail.com> 1697467205 -0300	commit: add
+d1a5b65b9175ff52d975293c60b250367e99b86e 21caf41c57e861b4bebdb7019f57532c8282e0ed Felipe Nunes Work <felipe.rudra@hotmail.com> 1697467766 -0300	commit: add
+21caf41c57e861b4bebdb7019f57532c8282e0ed 6b51783bf82778b33249ffcbee37dd1d4b242d7a Felipe Nunes Work <felipe.rudra@hotmail.com> 1697471548 -0300	commit: add
+6b51783bf82778b33249ffcbee37dd1d4b242d7a bffcefbf13c0c77e67ec3bea26ac86c2fec4197f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697476347 -0300	commit: add
+bffcefbf13c0c77e67ec3bea26ac86c2fec4197f 3eb9ffc3adfb570ca365bd463f4d725c0e7c6b4c Felipe Nunes Work <felipe.rudra@hotmail.com> 1697484592 -0300	commit: att
+3eb9ffc3adfb570ca365bd463f4d725c0e7c6b4c f0595653701abf7e53cf4c61af6d70d2996be863 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697486057 -0300	commit: att
+f0595653701abf7e53cf4c61af6d70d2996be863 90688a53f826ad35ebbe88b6a45684c0d16b3a4b Felipe Nunes Work <felipe.rudra@hotmail.com> 1697563109 -0300	commit: att
+90688a53f826ad35ebbe88b6a45684c0d16b3a4b 263a7040bbb557c2951b50b9e3da9eccc83bdfc3 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697572764 -0300	commit: att
+263a7040bbb557c2951b50b9e3da9eccc83bdfc3 829c0b4ecc415c2ff20604fc45aa1a171bd9c4aa Felipe Nunes Work <felipe.rudra@hotmail.com> 1697651173 -0300	commit: add
+829c0b4ecc415c2ff20604fc45aa1a171bd9c4aa e516101889843f0d3f6942faff9d6a1b9da38cea Felipe Nunes Work <felipe.rudra@hotmail.com> 1697659298 -0300	commit: add
+e516101889843f0d3f6942faff9d6a1b9da38cea 4ed2ac9e7973d494645a0d19b2db4926901fe9c5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697716032 -0300	pull --tags origin testes: Fast-forward
+4ed2ac9e7973d494645a0d19b2db4926901fe9c5 e7b120aa5fe47ad10efe599077dcfd920ec12732 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697726072 -0300	commit: att
+e7b120aa5fe47ad10efe599077dcfd920ec12732 45511c778fda71462075dba8d9d43c1c3a1c84e9 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697736466 -0300	commit: add
+45511c778fda71462075dba8d9d43c1c3a1c84e9 42a0739680caff0215ea579ec566d48292922f3d Felipe Nunes Work <felipe.rudra@hotmail.com> 1697737611 -0300	commit: att cad view
+42a0739680caff0215ea579ec566d48292922f3d 91f073e1ba115e6a8aee1138c52f9dc1347fd60d Felipe Nunes Work <felipe.rudra@hotmail.com> 1697738808 -0300	commit: add shimmer no cads
+91f073e1ba115e6a8aee1138c52f9dc1347fd60d cec0c84e80a1b04a9ee03f5c81792fbf4e0a819e Felipe Nunes Work <felipe.rudra@hotmail.com> 1697739683 -0300	commit: att
+cec0c84e80a1b04a9ee03f5c81792fbf4e0a819e 414af72bf12b3570f518438caac742840ffaa4da Felipe Nunes Work <felipe.rudra@hotmail.com> 1697740073 -0300	commit: att
+414af72bf12b3570f518438caac742840ffaa4da 23146500324f738bf82347e657f8ca361232cce9 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697740193 -0300	commit: att
+23146500324f738bf82347e657f8ca361232cce9 3fd51d337e96bc7189153dd0ff90948f6b1e2738 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697745457 -0300	commit: add
+3fd51d337e96bc7189153dd0ff90948f6b1e2738 48b60bd501fb503442cc2f48ea134920c9265830 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697745651 -0300	commit: att
+48b60bd501fb503442cc2f48ea134920c9265830 e43881457fffd2684e97e2c2a8ce3e8a4be632de Felipe Nunes Work <felipe.rudra@hotmail.com> 1697804639 -0300	commit: att
+e43881457fffd2684e97e2c2a8ce3e8a4be632de 4513af6f8bf48fe31af3349ed564f8759d89195f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697806209 -0300	commit: att
+4513af6f8bf48fe31af3349ed564f8759d89195f 894aa9912716e53ebd4aa396c21d86c31c37a52c Felipe Nunes Work <felipe.rudra@hotmail.com> 1697807201 -0300	commit: att
+894aa9912716e53ebd4aa396c21d86c31c37a52c 9adc9eb0441b8458fc3a42ff5a47666167028216 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697808964 -0300	commit: att
+9adc9eb0441b8458fc3a42ff5a47666167028216 e54d96c53017e638b043b05043d3c8abc27c27a0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697809188 -0300	commit: arr
+e54d96c53017e638b043b05043d3c8abc27c27a0 855077cc1e05b3cfb11bbab66f8f0fb37858fd23 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697810353 -0300	commit: att
+855077cc1e05b3cfb11bbab66f8f0fb37858fd23 e03e54950a09f06905e3d76cc04054ee6d3f69ff Felipe Nunes Work <felipe.rudra@hotmail.com> 1697812270 -0300	commit: att
+e03e54950a09f06905e3d76cc04054ee6d3f69ff a4bc80d6a62b0b3749fc4224e62b60e09d1cd697 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697812491 -0300	commit: att
+a4bc80d6a62b0b3749fc4224e62b60e09d1cd697 4fa961e66d5740dfdcc4570d151f0569df4ee850 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697819450 -0300	commit: att
+4fa961e66d5740dfdcc4570d151f0569df4ee850 8a2acffb8b14f5103d2f2f759789239dc7a102d2 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697819456 -0300	commit: att
+8a2acffb8b14f5103d2f2f759789239dc7a102d2 d81184b06ffa886117437a2c214e8cab0769b0d7 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697820064 -0300	commit: add
+d81184b06ffa886117437a2c214e8cab0769b0d7 2f4bb109720c57911678f98a530d87acf214aef7 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697831158 -0300	commit: att
+2f4bb109720c57911678f98a530d87acf214aef7 6e8611425a359a520b0f6713b29e82b0480817c1 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697831225 -0300	commit: att
+6e8611425a359a520b0f6713b29e82b0480817c1 0c69e889147163e493b3c9255b4ddb4f46558022 Felipe Nunes Work <felipe.rudra@hotmail.com> 1697831288 -0300	commit: att
+0c69e889147163e493b3c9255b4ddb4f46558022 03c52d160af276ac51936494d1942bbc9921e36f Felipe Nunes Work <felipe.rudra@hotmail.com> 1697831512 -0300	commit: att
+03c52d160af276ac51936494d1942bbc9921e36f 9c4512378d521d20a101483a8dc7bf2cbc994cd5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698061377 -0300	pull --tags origin testes: Fast-forward
+9c4512378d521d20a101483a8dc7bf2cbc994cd5 a929f04420c0105ef195cd3d3550b16de5a6feb5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698061558 -0300	commit: att
+a929f04420c0105ef195cd3d3550b16de5a6feb5 3ea7bc7ef041ff71540b78783152d20ea1923d10 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698066431 -0300	commit: att
+3ea7bc7ef041ff71540b78783152d20ea1923d10 ecf10dc2b6e5a60a8a4f9955b2027e33d94c2856 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698079376 -0300	commit: att
+ecf10dc2b6e5a60a8a4f9955b2027e33d94c2856 46da52d4700e1849867b2e532ae1e31115f8143b Felipe Nunes Work <felipe.rudra@hotmail.com> 1698081173 -0300	commit: att
+46da52d4700e1849867b2e532ae1e31115f8143b f238135c2046f235f59031ee9e60ce2126e998a5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698082514 -0300	commit: att
+f238135c2046f235f59031ee9e60ce2126e998a5 e5cf6e1f36894e14b7f3d2b2f051457087119444 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698085794 -0300	commit: att
+e5cf6e1f36894e14b7f3d2b2f051457087119444 66c7f2d1213f4b1334387a9b8f6bd8ed7005e914 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698090609 -0300	commit: att
+66c7f2d1213f4b1334387a9b8f6bd8ed7005e914 b23a8315df89f587d3e2a8657c623d91c9b71502 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698090624 -0300	commit: att
+b23a8315df89f587d3e2a8657c623d91c9b71502 5e787c467d4eb6c75efd7582734030944debe8d5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698158891 -0300	commit: att
+5e787c467d4eb6c75efd7582734030944debe8d5 58d0963bc8a045ec31cb4005f6e1b33849f58178 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698167476 -0300	commit: att
+58d0963bc8a045ec31cb4005f6e1b33849f58178 fbabab60dd80b8def4874951f1cc94b401133b15 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698174948 -0300	commit: att
+fbabab60dd80b8def4874951f1cc94b401133b15 c530ffb1ca05967aaa7f82f6691cf8d4472c2b81 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698177614 -0300	commit: att
+c530ffb1ca05967aaa7f82f6691cf8d4472c2b81 7484f2c508cbefd12e0cd38571fed2d0cc6fa235 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698238880 -0300	commit: att
+7484f2c508cbefd12e0cd38571fed2d0cc6fa235 3d5d843a2a0ae14fe8d8ded0967ba12cfd99a918 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698243131 -0300	commit: att
+3d5d843a2a0ae14fe8d8ded0967ba12cfd99a918 e36e0f663e9882ce1a9a383359e0450a6e7d4c46 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698253715 -0300	commit: att
+e36e0f663e9882ce1a9a383359e0450a6e7d4c46 3e0f5bf68eab541288bedc97efe936a24112b380 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698253989 -0300	commit: att
+3e0f5bf68eab541288bedc97efe936a24112b380 f2b5c245e87c9eb171b60649d0a0485ac923eb83 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698254203 -0300	commit: att
+f2b5c245e87c9eb171b60649d0a0485ac923eb83 2a4020df5d40adf7c1cefd610e0ab692419acbec Felipe Nunes Work <felipe.rudra@hotmail.com> 1698254491 -0300	commit: att
+2a4020df5d40adf7c1cefd610e0ab692419acbec f782633730c39f609d1a8d85ce856eeb9f8bf025 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698263747 -0300	commit: att
+f782633730c39f609d1a8d85ce856eeb9f8bf025 8a51eae1b2978cf4646950d66b644292bf0b9509 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698319649 -0300	pull --tags origin testes: Fast-forward
+8a51eae1b2978cf4646950d66b644292bf0b9509 35ec8c6eff67596b4fc4b591cd59b147d3d8a7fe Felipe Nunes Work <felipe.rudra@hotmail.com> 1698325224 -0300	commit: att
+35ec8c6eff67596b4fc4b591cd59b147d3d8a7fe 1e45824dea51ae9af1a46b0c5ccec8e0d2f379ae Felipe Nunes Work <felipe.rudra@hotmail.com> 1698328405 -0300	commit: att
+1e45824dea51ae9af1a46b0c5ccec8e0d2f379ae 0ad41a5a2ae971de04148ba6ce188a7c2c7dcd84 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698329557 -0300	commit: att
+0ad41a5a2ae971de04148ba6ce188a7c2c7dcd84 024dba9c30680df6cc6cb05e69465646f0196ab2 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698331592 -0300	commit: att
+024dba9c30680df6cc6cb05e69465646f0196ab2 fed9c19d90ecb10497d9b7838070519babf2c8a1 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698336062 -0300	commit: att
+fed9c19d90ecb10497d9b7838070519babf2c8a1 699ca364b402153a9bb0e1477c641c8ac97fa800 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698342827 -0300	commit: att
+699ca364b402153a9bb0e1477c641c8ac97fa800 d216e67905bcb40de11ade906c6880fa4a9a9fdd Felipe Nunes Work <felipe.rudra@hotmail.com> 1698344838 -0300	commit: att
+d216e67905bcb40de11ade906c6880fa4a9a9fdd a08c7edc4bffbd2914c2cd5ae0c5af9008aa8627 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698347568 -0300	commit: att
+a08c7edc4bffbd2914c2cd5ae0c5af9008aa8627 ecaf974628cfb0f6fe63345f822ecd09e8479da0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1698348158 -0300	commit: att
+ecaf974628cfb0f6fe63345f822ecd09e8479da0 d8f7496748f5c8c139afa64fd5d61cd7e4cbc634 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699298808 -0300	commit: att
+d8f7496748f5c8c139afa64fd5d61cd7e4cbc634 71ac2a36fad7654d5e589e2b1669fd089ec8cb2b Felipe Nunes Work <felipe.rudra@hotmail.com> 1699379975 -0300	commit: att
+71ac2a36fad7654d5e589e2b1669fd089ec8cb2b 6c04390106a393b1160b5ffab6d008fb324a573f Felipe Nunes Work <felipe.rudra@hotmail.com> 1699386952 -0300	commit: att
+6c04390106a393b1160b5ffab6d008fb324a573f a13ba6f189f8fe924aa7382a18ec8073801ba823 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699634499 -0300	commit: att
+a13ba6f189f8fe924aa7382a18ec8073801ba823 94a1fc7346e9192c8ee32036d8fb1d6577e0abd1 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699634835 -0300	commit: tt
+94a1fc7346e9192c8ee32036d8fb1d6577e0abd1 ddbad6e4afba347d1c36ee94575dd39576eb9954 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699644110 -0300	commit: att
+ddbad6e4afba347d1c36ee94575dd39576eb9954 f46485b2b50c0893ce99cfc390d89e886890d2cd Felipe Nunes Work <felipe.rudra@hotmail.com> 1699646094 -0300	commit: att
+f46485b2b50c0893ce99cfc390d89e886890d2cd 01d7973d71fd231e185a30c27aa7b7f39321b261 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699884916 -0300	commit: att
+01d7973d71fd231e185a30c27aa7b7f39321b261 a98f28a4679192ccbd786e2f7156a3ea1f6c40be Felipe Nunes Work <felipe.rudra@hotmail.com> 1699892661 -0300	commit: add
+a98f28a4679192ccbd786e2f7156a3ea1f6c40be d2635abce5ea09ba806498d536d4044f5993840f Felipe Nunes Work <felipe.rudra@hotmail.com> 1699895378 -0300	commit: att
+d2635abce5ea09ba806498d536d4044f5993840f 5e1142a85185d9df89ac51394fd18cb69af8dbc0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699897118 -0300	commit: att
+5e1142a85185d9df89ac51394fd18cb69af8dbc0 01b0abd694b1cd158b64e0b6e21f1e90ed005a47 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699900767 -0300	commit: att
+01b0abd694b1cd158b64e0b6e21f1e90ed005a47 27522d10d813e7673148ffc823865713a9721e89 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699902923 -0300	commit: att
+27522d10d813e7673148ffc823865713a9721e89 f7faef521a23d334f36da94c0109995d48641c70 Felipe Nunes Work <felipe.rudra@hotmail.com> 1699905280 -0300	commit: att
+f7faef521a23d334f36da94c0109995d48641c70 4fc53b951ee5fc5a8154862480c67bd1e9b0d1cb Felipe Nunes Work <felipe.rudra@hotmail.com> 1699979805 -0300	commit: att
+4fc53b951ee5fc5a8154862480c67bd1e9b0d1cb a9a3daaaec058da856617839c9063c39d79d1c09 Felipe Nunes Work <felipe.rudra@hotmail.com> 1703013270 -0300	commit: att
+a9a3daaaec058da856617839c9063c39d79d1c09 4a3b1f89922e96bb2912ae23f21d368247c6e43f Felipe Nunes Work <felipe.rudra@hotmail.com> 1703074060 -0300	pull --tags origin testes: Fast-forward
+4a3b1f89922e96bb2912ae23f21d368247c6e43f 638a7eed1da7550b1aa80d5a6efc2770241154a2 Felipe Nunes Work <felipe.rudra@hotmail.com> 1703078046 -0300	commit: att
+638a7eed1da7550b1aa80d5a6efc2770241154a2 692e7cac40eb14e2afb09befc3c1c86f940c33ef Felipe Nunes Work <felipe.rudra@hotmail.com> 1703079779 -0300	commit: att
+692e7cac40eb14e2afb09befc3c1c86f940c33ef 1c8b1c6e8443dafc815f6515ae721dd875eaa04d Felipe Nunes Work <felipe.rudra@hotmail.com> 1703083100 -0300	commit: att
+1c8b1c6e8443dafc815f6515ae721dd875eaa04d 7dcbff6c7c62de1af5bacfab5abd8cb621cecdce Felipe Nunes Work <felipe.rudra@hotmail.com> 1703091167 -0300	commit: att
+7dcbff6c7c62de1af5bacfab5abd8cb621cecdce b273bebd466aae4ff0db9d901a2749782b4cd031 Felipe Nunes Work <felipe.rudra@hotmail.com> 1703174015 -0300	commit: att
+b273bebd466aae4ff0db9d901a2749782b4cd031 4a9fab8a8530cb535fc5d417694c69cafd9110dd Felipe Nunes Work <felipe.rudra@hotmail.com> 1703247229 -0300	commit: att
+4a9fab8a8530cb535fc5d417694c69cafd9110dd 99727bda8327718e7c2c3f689969ad985918d35a Felipe Nunes Work <felipe.rudra@hotmail.com> 1703791444 -0300	commit: att
+99727bda8327718e7c2c3f689969ad985918d35a 043a1eb75a5e5859f163fd9e95bb6c6b71ea4426 Felipe Nunes Work <felipe.rudra@hotmail.com> 1703791740 -0300	commit: att
+043a1eb75a5e5859f163fd9e95bb6c6b71ea4426 3e262d9d92baf8851fe9ae377491c09f190856ce Felipe Nunes Work <felipe.rudra@hotmail.com> 1704810652 -0300	commit: att
+3e262d9d92baf8851fe9ae377491c09f190856ce b57a85dd0182352fc42b81cab5d53abf9e40d715 Felipe Nunes Work <felipe.rudra@hotmail.com> 1704984019 -0300	commit: att
+b57a85dd0182352fc42b81cab5d53abf9e40d715 acb50508d28c3fe72e6b1390a7d325ccc06df1fd Felipe Nunes Work <felipe.rudra@hotmail.com> 1705520374 -0300	commit: aii
+acb50508d28c3fe72e6b1390a7d325ccc06df1fd 0264d47c454d5cc5b68016d3e6b062658ebcccc8 Felipe Nunes Work <felipe.rudra@hotmail.com> 1705582019 -0300	commit: att
+0264d47c454d5cc5b68016d3e6b062658ebcccc8 157e13e4e63e7fcc6cce2c9b8832112b96de6782 Felipe Nunes Work <felipe.rudra@hotmail.com> 1705586073 -0300	commit: att
+157e13e4e63e7fcc6cce2c9b8832112b96de6782 969f96bb8a419410ce72cea5ef3a1f9090e34f9d Felipe Nunes Work <felipe.rudra@hotmail.com> 1705595660 -0300	commit: att
+969f96bb8a419410ce72cea5ef3a1f9090e34f9d 6f558ecc0d8d63cf37f56d053227a53968c06499 Felipe Nunes Work <felipe.rudra@hotmail.com> 1705597319 -0300	commit: att
+6f558ecc0d8d63cf37f56d053227a53968c06499 bde6555cb15fa272447cced40043df4d33c2efaf Felipe Nunes Work <felipe.rudra@hotmail.com> 1705597806 -0300	commit: aty
+bde6555cb15fa272447cced40043df4d33c2efaf 27733ff04fd81717eed71759763e5e672f56eb10 Felipe Nunes Work <felipe.rudra@hotmail.com> 1705664694 -0300	commit: att
+27733ff04fd81717eed71759763e5e672f56eb10 03967e726af134cccfb77f7a3eb0f139f5f10047 Felipe Nunes Work <felipe.rudra@hotmail.com> 1705665946 -0300	commit: att
+03967e726af134cccfb77f7a3eb0f139f5f10047 7f94d216048a86a009510f995a45b4cb8a45918d Felipe Nunes Work <felipe.rudra@hotmail.com> 1705953402 -0300	commit: att
+7f94d216048a86a009510f995a45b4cb8a45918d 55fd90aa6564a8f4f0faedee864fe8bf312169db Felipe Nunes Work <felipe.rudra@hotmail.com> 1706020270 -0300	commit: att
+55fd90aa6564a8f4f0faedee864fe8bf312169db 22d68c237f60e1a8a33e7c0e844072cdca176b36 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706036300 -0300	commit: att
+22d68c237f60e1a8a33e7c0e844072cdca176b36 23d14787b976202f2afb9794c8727e6624be0952 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706103681 -0300	commit: att
+23d14787b976202f2afb9794c8727e6624be0952 b32084dec66527ba0b85d38b6015e15c5002e0bf Felipe Nunes Work <felipe.rudra@hotmail.com> 1706126049 -0300	commit: att
+b32084dec66527ba0b85d38b6015e15c5002e0bf 1242decb3dafd6379fd31dd21976b8be1df1bc12 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706212779 -0300	commit: att
+1242decb3dafd6379fd31dd21976b8be1df1bc12 6da97ad26aa73cc2dd9d1bbb9e9030b080c71812 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706299167 -0300	commit: att
+6da97ad26aa73cc2dd9d1bbb9e9030b080c71812 91ea0264d3682d422a2a3baf9e3e3895456ba12b Felipe Nunes Work <felipe.rudra@hotmail.com> 1706527229 -0300	pull --tags origin testes: Fast-forward
+91ea0264d3682d422a2a3baf9e3e3895456ba12b fcd2b5b8f5a57af66e06ecaf8ea1369d8677ddd9 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706530949 -0300	commit: att
+fcd2b5b8f5a57af66e06ecaf8ea1369d8677ddd9 81b15445c581ed9dcf55aaa21c44f04a93bdad4d Felipe Nunes Work <felipe.rudra@hotmail.com> 1706557156 -0300	commit: att
+81b15445c581ed9dcf55aaa21c44f04a93bdad4d 9167b0cef8c6c8306fff9d6c718cab2366703d6b Felipe Nunes Work <felipe.rudra@hotmail.com> 1706558050 -0300	commit: att
+9167b0cef8c6c8306fff9d6c718cab2366703d6b a225d7e6e7a126b815e136fbaf67ca419f76c1a3 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706641940 -0300	commit: arr
+a225d7e6e7a126b815e136fbaf67ca419f76c1a3 2ed14ccdd916d49c826ae234459c0afb6682b450 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706643268 -0300	commit: att
+2ed14ccdd916d49c826ae234459c0afb6682b450 1693f4fdd27e09c9f4c123d2b6f848bc3ee458a0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706699963 -0300	pull --tags origin testes: Fast-forward
+1693f4fdd27e09c9f4c123d2b6f848bc3ee458a0 9dbe8268d060f9726c0f0af6a5186931885a4321 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706731160 -0300	commit: att
+9dbe8268d060f9726c0f0af6a5186931885a4321 0fcf1f5c6e22cb1acf844ab8dd33e38cea7804d4 Felipe Nunes Work <felipe.rudra@hotmail.com> 1706786907 -0300	pull --tags origin testes: Fast-forward
+0fcf1f5c6e22cb1acf844ab8dd33e38cea7804d4 6bbf5ab28bf5630f04d685a08ed7a93cd146391b Felipe Nunes Work <felipe.rudra@hotmail.com> 1707248199 -0300	commit: att
+6bbf5ab28bf5630f04d685a08ed7a93cd146391b 749b1fca41a8a7f7921a49b059545a0b899a0be0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1707326076 -0300	commit: att
+749b1fca41a8a7f7921a49b059545a0b899a0be0 455a81d596d4d81730104855f1277f1f6a9c45c3 Felipe Nunes Work <felipe.rudra@hotmail.com> 1707328014 -0300	commit: att
+455a81d596d4d81730104855f1277f1f6a9c45c3 5a10f51ed852d1bec1bbeaf31c79d38e95c3c745 Felipe Nunes Work <felipe.rudra@hotmail.com> 1707502606 -0300	commit: att
+5a10f51ed852d1bec1bbeaf31c79d38e95c3c745 55c80620ab1e78840ddb7587e7e0bbd7035ab32a Felipe Nunes Work <felipe.rudra@hotmail.com> 1708024505 -0300	commit: att
+55c80620ab1e78840ddb7587e7e0bbd7035ab32a b198e9aace51c65524247ed3382282e55e6b024b Felipe Nunes Work <felipe.rudra@hotmail.com> 1708027100 -0300	commit: att
+b198e9aace51c65524247ed3382282e55e6b024b 6ed844291b2108d414b370ec79e834f6a46c6f2d Felipe Nunes Work <felipe.rudra@hotmail.com> 1708371049 -0300	commit: att
+6ed844291b2108d414b370ec79e834f6a46c6f2d 865df7257468da9f15e423ec2aabe7b0c3283b95 Felipe Nunes Work <felipe.rudra@hotmail.com> 1708694607 -0300	commit: att
+865df7257468da9f15e423ec2aabe7b0c3283b95 5e56a0a1cda0a39c66b73613263d1e75ae10897c Felipe Nunes Work <felipe.rudra@hotmail.com> 1708706738 -0300	commit: att
+5e56a0a1cda0a39c66b73613263d1e75ae10897c c29bb0212c71e7e1080fc9e01e83d91bf2ddfc8d Felipe Nunes Work <felipe.rudra@hotmail.com> 1709053034 -0300	commit: att
+c29bb0212c71e7e1080fc9e01e83d91bf2ddfc8d 5edbdfd5066662f816d762f01a87ffe04a2843e4 Felipe Nunes Work <felipe.rudra@hotmail.com> 1709053038 -0300	pull --tags origin testes: Merge made by the 'ort' strategy.
+5edbdfd5066662f816d762f01a87ffe04a2843e4 c6fdc7c50b5bcc1c641721ea23caead078d941c6 Felipe Nunes Work <felipe.rudra@hotmail.com> 1709061902 -0300	commit: att
+c6fdc7c50b5bcc1c641721ea23caead078d941c6 5759e48cce86c792427d2debaf29018f5ac70e8a Felipe Nunes Work <felipe.rudra@hotmail.com> 1709062957 -0300	commit: att
+5759e48cce86c792427d2debaf29018f5ac70e8a 74d52bbca98958fce5f723acf145163f29b6b5df Felipe Nunes Work <felipe.rudra@hotmail.com> 1709138788 -0300	commit: arr
+74d52bbca98958fce5f723acf145163f29b6b5df c01e0fde22e6233f852fef24349b10d4bdf067e3 Felipe Nunes Work <felipe.rudra@hotmail.com> 1709206169 -0300	pull --tags origin testes: Fast-forward
+c01e0fde22e6233f852fef24349b10d4bdf067e3 b15b8a107ce2d2694f23531f7ece895537695df5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1709236827 -0300	commit: attt
+b15b8a107ce2d2694f23531f7ece895537695df5 a430e589ff61e3800c255520a30103881ad03dfd Felipe Nunes Work <felipe.rudra@hotmail.com> 1712759620 -0300	commit: att
+a430e589ff61e3800c255520a30103881ad03dfd 7c89eab72a9eacfe9baece643eda041ca2b2ef56 Felipe Nunes Work <felipe.rudra@hotmail.com> 1713286491 -0300	commit: att
+7c89eab72a9eacfe9baece643eda041ca2b2ef56 6b209d4092b3282950e19a42562391adfc730c87 Felipe Nunes Work <felipe.rudra@hotmail.com> 1713441912 -0300	commit: att
+6b209d4092b3282950e19a42562391adfc730c87 3a789d89aaf98636f5ebf8f92ad8fd8fdb75a730 Felipe Nunes Work <felipe.rudra@hotmail.com> 1713461820 -0300	commit: att
+3a789d89aaf98636f5ebf8f92ad8fd8fdb75a730 e4f73a4d24f0cdc6c946759bd9213e2fd60ecdb5 Felipe Nunes Work <felipe.rudra@hotmail.com> 1713465237 -0300	commit: att
+e4f73a4d24f0cdc6c946759bd9213e2fd60ecdb5 5ab665b87072ca448cb0abf1823a33da42b8eebf Felipe Nunes Work <felipe.rudra@hotmail.com> 1713874549 -0300	commit: att
+5ab665b87072ca448cb0abf1823a33da42b8eebf 08fff696282e03f84d1f3d63967a9b9b8b14615b Felipe Nunes Work <felipe.rudra@hotmail.com> 1713897563 -0300	commit: att
+08fff696282e03f84d1f3d63967a9b9b8b14615b 61e9a12ba8aab77fe5d143d5566f9b8061f76be6 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714056832 -0300	commit: att
+61e9a12ba8aab77fe5d143d5566f9b8061f76be6 9d285526c14d4e44751e1ca4b22a4a4c53eb46dc Felipe Nunes Work <felipe.rudra@hotmail.com> 1714150269 -0300	commit: atualizado cor do tema, filtro historico
+9d285526c14d4e44751e1ca4b22a4a4c53eb46dc dca145957c83ecaf3db803fa83e35b661b843764 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714156460 -0300	commit: limpeza de codigo
+dca145957c83ecaf3db803fa83e35b661b843764 b19b4f5e48b4fc73e5b83750956200fb1a6bf77d Felipe Nunes Work <felipe.rudra@hotmail.com> 1714158050 -0300	commit: att
+b19b4f5e48b4fc73e5b83750956200fb1a6bf77d 6505d76c6bb83e7689208b6d3f83900bc97c4ba0 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714161438 -0300	commit: att
+6505d76c6bb83e7689208b6d3f83900bc97c4ba0 0546283caa21902131a9a55b7cc4fabac6958ac9 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714390788 -0300	pull --tags origin testes: Fast-forward
+0546283caa21902131a9a55b7cc4fabac6958ac9 273a53ac1c2e0055b4357ef1d1817ebeb13c4b82 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714404070 -0300	commit: att
+273a53ac1c2e0055b4357ef1d1817ebeb13c4b82 f36002892570e4ba160c1a5f83d0fc8b2f30426d Felipe Nunes Work <felipe.rudra@hotmail.com> 1714666777 -0300	commit: att
+f36002892570e4ba160c1a5f83d0fc8b2f30426d 4f4c82e9aa6c6f8cb265645653abdba75351bb50 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714670615 -0300	commit: att
+4f4c82e9aa6c6f8cb265645653abdba75351bb50 dc9952c2c9fc139538cbbff26226ea4667ea5a90 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714760689 -0300	commit: atualizado agora pra mostrar as comprar no cartao
+dc9952c2c9fc139538cbbff26226ea4667ea5a90 c5a32c9256b8efaff56140c72acffb3ed782b950 Felipe Nunes Work <felipe.rudra@hotmail.com> 1714995724 -0300	commit: ayt
+c5a32c9256b8efaff56140c72acffb3ed782b950 1b2028493e641fb78ac2ad32c3a995bfb31773a1 Felipe Nunes Work <felipe.rudra@hotmail.com> 1715018169 -0300	commit: adicionado botao pra cancelar botao estacionamento
+1b2028493e641fb78ac2ad32c3a995bfb31773a1 dcb7a6604ce539d7eda09f667814ef1397c60b4b Felipe Nunes Work <felipe.rudra@hotmail.com> 1715024730 -0300	commit: terminado botao de cancelamento
+dcb7a6604ce539d7eda09f667814ef1397c60b4b 3539e436f38c82090a1991e1a4cdd18f3cef9644 Felipe Nunes Work <felipe.rudra@hotmail.com> 1715082471 -0300	pull --tags origin testes: Fast-forward
+3539e436f38c82090a1991e1a4cdd18f3cef9644 3532b4321e827cc8746ec2b85a3df680527edf65 Felipe Nunes Work <felipe.rudra@hotmail.com> 1715087930 -0300	commit: atualizado edit veiculo
+3532b4321e827cc8746ec2b85a3df680527edf65 a7355a82f5607bffd4bf88d9058b8c5f112e41e7 Felipe Nunes Work <felipe.rudra@hotmail.com> 1715111720 -0300	commit: att
+a7355a82f5607bffd4bf88d9058b8c5f112e41e7 d4f6eb7b75b22ed6d83b029b4aa7ef1da9e7270b Felipe Nunes Work <felipe.rudra@hotmail.com> 1715111864 -0300	commit: ATT
+d4f6eb7b75b22ed6d83b029b4aa7ef1da9e7270b b654b699a1448d4cf0ca3fc63705c3957ffb3985 Felipe Nunes Work <felipe.rudra@hotmail.com> 1715167982 -0300	pull --tags origin testes: Fast-forward
+b654b699a1448d4cf0ca3fc63705c3957ffb3985 6b9ee57a47db01e4eb121f147e9e3db3af2418bb Felipe Nunes Work <felipe.rudra@hotmail.com> 1715185789 -0300	commit: att
+6b9ee57a47db01e4eb121f147e9e3db3af2418bb 0a296a2b01e32d58b87f78822bd83200ec29d770 Felipe Nunes Work <felipe.rudra@hotmail.com> 1722864199 -0300	commit: att
+0a296a2b01e32d58b87f78822bd83200ec29d770 6897f1ba2d249c6b1026e82ea8903dbd0e6b6027 Felipe Nunes Work <felipe.rudra@hotmail.com> 1722880729 -0300	commit: att
+6897f1ba2d249c6b1026e82ea8903dbd0e6b6027 09e869717c08cdd283cd1b311027e7cae3a1adff Felipe Nunes Work <felipe.rudra@hotmail.com> 1734012544 -0300	commit: adiciona busca para o início do player ao exibir notificação
+09e869717c08cdd283cd1b311027e7cae3a1adff 0000000000000000000000000000000000000000 Felipe Alves <felipe.alvesnn@gmail.com> 1746205629 -0300	Branch: renamed refs/heads/testes to refs/heads/principal
+0000000000000000000000000000000000000000 09e869717c08cdd283cd1b311027e7cae3a1adff Felipe Alves <felipe.alvesnn@gmail.com> 1746205629 -0300	Branch: renamed refs/heads/testes to refs/heads/principal
+09e869717c08cdd283cd1b311027e7cae3a1adff a0bf3aa08bf309f0d1d9eef9de395f605d754c29 Felipe Alves <felipe.alvesnn@gmail.com> 1746206173 -0300	commit: Implement code changes to enhance functionality and improve performance
+a0bf3aa08bf309f0d1d9eef9de395f605d754c29 1bb8a50cb02594dfd8e57a4109db2cd4f333ea33 Felipe Alves <felipe.alvesnn@gmail.com> 1746212565 -0300	commit: att
+1bb8a50cb02594dfd8e57a4109db2cd4f333ea33 49cba8b6ab85b7243ee1fc4b3ce633350cc9c75d Felipe Alves <felipe.alvesnn@gmail.com> 1746212859 -0300	commit: kguyguy
+49cba8b6ab85b7243ee1fc4b3ce633350cc9c75d fd0f0265bdb710e9107d5b8d82dedf3a5eb2b00d Felipe Alves <felipe.alvesnn@gmail.com> 1746213670 -0300	commit: Update package name and regenerate configuration files for multiple architectures
+fd0f0265bdb710e9107d5b8d82dedf3a5eb2b00d 43b4c8a20d645636a41505e6ce00469d6e2381e6 Felipe Alves <felipe.alvesnn@gmail.com> 1746214935 -0300	commit: Refactor: Update fingerprint configuration files for various architectures and remove loading text from login page view
+43b4c8a20d645636a41505e6ce00469d6e2381e6 3f8ad619903aa6574c1e62c7c15471e1483f6e73 Felipe Alves <felipe.alvesnn@gmail.com> 1746215542 -0300	commit: att
+3f8ad619903aa6574c1e62c7c15471e1483f6e73 7271a581b014b6a5d16b500e4354c44a5b0b45ba Felipe Alves <felipe.alvesnn@gmail.com> 1746453098 -0300	commit: Adicionar arquivos de configuração do FVM com versão do Flutter 3.29.3
+7271a581b014b6a5d16b500e4354c44a5b0b45ba 3eb2f8bcbd7966dec7fb46652132794a9f8293ae Felipe Alves <felipe.alvesnn@gmail.com> 1746474289 -0300	commit: Refactor project files and update dependencies
+3eb2f8bcbd7966dec7fb46652132794a9f8293ae 0450cc2f79b44d014e2ae0aab20a3ff538dfbfa4 Felipe Alves <felipe.alvesnn@gmail.com> 1746539993 -0300	commit: feat: Update Estacionar functionality and UI improvements
+0450cc2f79b44d014e2ae0aab20a3ff538dfbfa4 b16c6e0f9a4a14ee17b65aa7b1188ef8db03d113 Felipe Alves <felipe.alvesnn@gmail.com> 1746556620 -0300	commit: feat: Update AndroidManifest.xml for audio service and notification permissions
+b16c6e0f9a4a14ee17b65aa7b1188ef8db03d113 57b3b00d713004665a3be5883b3546f0403ce228 Felipe Alves <felipe.alvesnn@gmail.com> 1746557341 -0300	commit: feat: Atualizar a configuração da fonte de áudio e corrigir a definição de metadados
+57b3b00d713004665a3be5883b3546f0403ce228 ffa870ea1ce8de8aab3a75232f8eaf186f3b55f9 Felipe Alves <felipe.alvesnn@gmail.com> 1746558972 -0300	commit: refactor: clean up imports in login_page_controller.dart and update notificationAwesomeNotification.dart to comment out soundSource
+ffa870ea1ce8de8aab3a75232f8eaf186f3b55f9 f502ea981fae11a3540a7d4e7689b2df44fd1698 Felipe Alves <felipe.alvesnn@gmail.com> 1746623072 -0300	commit: Add flutter_vector_icons dependency and update icon usage in BodyCard widget
+f502ea981fae11a3540a7d4e7689b2df44fd1698 3d02235ffd9947caf8616a5652839b10aee6eff8 Felipe Alves <felipe.alvesnn@gmail.com> 1746638680 -0300	commit: Refactor HomeView and HomeController to use enums for navigation tabs, improve drawer functionality, and enhance UI responsiveness
+3d02235ffd9947caf8616a5652839b10aee6eff8 f0680a29cbe6ead8bcf96e65545a80867fe589a5 Felipe Alves <felipe.alvesnn@gmail.com> 1746645596 -0300	commit: Refactor HomeController for improved organization and readability; enhance loading logic and error handling. Update HomeView to use AutoSizeText for better text management.
+f0680a29cbe6ead8bcf96e65545a80867fe589a5 68f8a442c04f7e9099ae75f167a3e345e1e8c098 Felipe Alves <felipe.alvesnn@gmail.com> 1746647139 -0300	commit: feat: Integrate Waiter package for loading indicators in EstacionarController and body_home
+68f8a442c04f7e9099ae75f167a3e345e1e8c098 f32b68dd1a61aa94a5e18765da3f69d260ae5743 Felipe Alves <felipe.alvesnn@gmail.com> 1746713398 -0300	commit: feat: Enable MultiDex and add permissions for full-screen intents and exact alarms
