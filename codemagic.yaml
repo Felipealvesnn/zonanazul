@@ -1,37 +1,26 @@
 workflows:
-  ios-appstore-build:
-    name: iOS App Store Build
+  ios-appstore-auto-signing:
+    name: iOS App Store Build (Auto)
     instance_type: mac_mini_m2
     environment:
       vars:
-        CERTIFICATE_PASSWORD: 123456
+        APP_ID: 12345678 # se quiser usar no futuro pro TestFlight
       ios_signing:
         distribution_type: app_store
         bundle_identifier: br.com.w2esolucoes.zonaazul
+        authentication: app_store_connect
       flutter: stable
       xcode: latest
     scripts:
-      - name: Debug Provisioning Profiles
+      - name: Fetch perfis e certificados automáticos
         script: |
-          echo "📂 Listando perfis disponíveis..."
-          ls -la ~/Library/MobileDevice/Provisioning\ Profiles
-          echo "🔍 Verificando perfis instalados:"
-          security find-identity -v
-
-      - name: Configurar código de assinatura manual
-        script: |
-          keychain initialize
-          keychain add-certificates --certificate ./certs/certificate.p12 --certificate-password $CERTIFICATE_PASSWORD
-          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
-          cp ./certs/ZonaAzulAppStoreProfile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
+          xcode-project use-profiles
       - name: Instalar dependências
         script: flutter pub get
       - name: Build IPA
         script: flutter build ipa --release
     artifacts:
       - build/ios/ipa/*.ipa
-
-
 
 
   android-workflow:
