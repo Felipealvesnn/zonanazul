@@ -4,24 +4,23 @@ workflows:
     instance_type: mac_mini_m2
     environment:
       vars:
-        CERTIFICATE_PASSWORD: 123456 # coloque a senha do .p12 aqui
+        CERTIFICATE_PASSWORD: 123456
       ios_signing:
         distribution_type: app_store
         bundle_identifier: br.com.w2esolucoes.zonaazul
       flutter: stable
       xcode: latest
     scripts:
-      - name: Importar certificado e perfil
+      - name: Configurar código de assinatura manual
         script: |
           keychain initialize
           keychain add-certificates --certificate ./certs/certificate.p12 --certificate-password $CERTIFICATE_PASSWORD
-          keychain add-profile ./certs/ZonaAzulAppStoreProfile.mobileprovision
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          cp ./certs/ZonaAzulAppStoreProfile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
       - name: Instalar dependências
-        script: |
-          flutter pub get
-      - name: Build IPA para App Store
-        script: |
-          flutter build ipa --release
+        script: flutter pub get
+      - name: Build IPA
+        script: flutter build ipa --release
     artifacts:
       - build/ios/ipa/*.ipa
 
