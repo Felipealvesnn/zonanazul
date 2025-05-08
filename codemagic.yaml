@@ -11,6 +11,13 @@ workflows:
       flutter: stable
       xcode: latest
     scripts:
+      - name: Debug Provisioning Profiles
+        script: |
+          echo "📂 Listando perfis disponíveis..."
+          ls -la ~/Library/MobileDevice/Provisioning\ Profiles
+          echo "🔍 Verificando perfis instalados:"
+          security find-identity -v
+
       - name: Configurar código de assinatura manual
         script: |
           keychain initialize
