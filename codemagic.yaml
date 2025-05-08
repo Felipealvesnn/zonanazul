@@ -7,7 +7,7 @@ workflows:
         CERTIFICATE_PASSWORD: 123456     # coloque isso nos Secrets do CM
       ios_signing:
         certificate_path: ./certs/certificate.p12        # seu .p12
-        certificate_password: $CERTIFICATE_PASSWORD
+        certificate_password: 123456
         provisioning_profile_path: ./certs/ZonaAzulAppStoreProfile.mobileprovision
         distribution_type: app_store
         bundle_identifier: br.com.w2esolucoes.zonaazul
